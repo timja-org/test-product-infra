@@ -1,0 +1,4 @@
+commands:
+  label:
+    enabled: true
+    allowed_labels: ['bugfix']
