@@ -1,5 +1,0 @@
-extends: .github
-commands:
-  label:
-    enabled: true
-    allowedLabels: ['bugfix']
