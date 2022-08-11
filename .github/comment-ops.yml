@@ -1,3 +1,4 @@
+extends: .github
 commands:
   label:
     enabled: true
